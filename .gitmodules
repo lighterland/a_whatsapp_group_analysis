@@ -1,0 +1,3 @@
+[submodule "kamus-alay"]
+	path = kamus-alay
+	url = https://github.com/lighterland/kamus-alay.git
