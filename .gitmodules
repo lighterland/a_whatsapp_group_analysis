@@ -1,3 +1,9 @@
 [submodule "lexicon/kamus-alay"]
 	path = lexicon/kamus-alay
 	url = https://github.com/nasalsabila/kamus-alay.git
+[submodule "lexicon/ID-Stopwords"]
+	path = lexicon/ID-Stopwords
+	url = https://github.com/masdevid/ID-Stopwords.git
+[submodule "lexicon/InSet"]
+	path = lexicon/InSet
+	url = https://github.com/fajri91/InSet.git
