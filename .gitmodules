@@ -1,0 +1,3 @@
+[submodule "lexicon/kamus-alay"]
+	path = lexicon/kamus-alay
+	url = https://github.com/nasalsabila/kamus-alay.git
