@@ -4,7 +4,7 @@ The analysis is originally presented in the following article:
 https://medium.com/@barklight/cracking-the-conversation-973839be5b88
 
 ## Data
-The chat data used in this analysis is contained in `whatsapp_chat.txt`
+The chat data used in this analysis is `whatsapp_chat.txt`
 > Please note that the message has been encrypted for privacy reasons.
 
 ## Lexicon
