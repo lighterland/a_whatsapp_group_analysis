@@ -1,6 +1,6 @@
 # a_whatsapp_group_analysis
-This repository contains an analysis of a WhatsApp group chat using exploratory data analysis, sentiment analysis, and topic modeling.
-The analysis was originally presented in the following article:
+This repository contains an analysis of a WhatsApp group chat using exploratory data analysis, sentiment analysis, and topic modeling. <br>
+The analysis is originally presented in the following article:
 https://medium.com/@barklight/cracking-the-conversation-973839be5b88
 
 ## Data
